@@ -1,0 +1,219 @@
+body{
+    font-family: sans-serif;
+    color:grey;
+    margin: auto;
+    max-width:1000px;
+   
+
+}
+.Docplanner-header{
+    display: flex;
+    justify-content: space-around;
+    position:sticky;
+
+}
+.group{
+    color:#00b39b ;
+}
+.Docplanner-logo{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+.active{
+    color:#00b39b;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    margin:20px;
+}
+.premier-title{
+    color: #00b39b;
+    margin: 1em 0;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: .3px;
+}
+.premier-p{
+    display: flex;
+    padding: 20px;
+    margin:30px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    
+}
+.second{
+    display: flex;
+    margin:100px;
+ 
+}
+.servicecard{
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    margin:10px;
+    position: relative;
+    height: 350px;
+    flex-grow: 111px;
+}
+.card-patient{
+    background-color: #60F7C8;
+    display: flex;
+    flex-direction: column;
+   
+   
+}
+  
+
+.country{
+    width: 180px;
+    height: 40px;
+    font-family:Arial;
+    border:white;
+    border-radius: 5px;
+    padding:5px;
+}
+.card-doctor{
+    background-color:#4BA3F0;
+    display: flex;
+    flex-direction: column;
+   
+    
+    
+}
+.second-imgd{
+    height: 200px;
+    width:180px;
+    position: absolute;
+    bottom: 30px;
+    right: 0px;
+  
+   
+}
+.second-imgp{
+    height: 200px;
+    width:180px;
+    position: absolute;
+    bottom: 30px;
+    right: 0px;}
+ .third{
+     display: flex;
+     margin: 20px;
+     
+    
+    }
+  .third-title{
+     color:#00b39b ;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    letter-spacing: .3px;
+
+  }  
+  .links{
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      
+      
+
+  }
+  .url{
+    color: grey;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    letter-spacing: .3px;
+   
+  }
+  .four{
+      display: flex;
+      justify-content: space-between;
+      background-color: powderblue;
+      
+      padding: 20px; 
+    flex-basis: 1px;}
+  .four1{color:#00b39b ;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    letter-spacing: .3px;}
+  .part1{
+      padding: 20px;
+  }
+  .part2{
+      display: flex;
+      flex-direction: column;
+      margin: 20px;
+    padding: 20px;
+}   
+      .diviser{
+       display: flex;
+       justify-content: space-between;
+   }
+  .back{
+       display: flex;
+       flex-direction: column;
+       
+        background-color: white;
+      margin: 20px;
+      width: 200px;
+      height: 300px;
+     
+       border-radius: 8px;
+     
+  }
+  
+  .flink{
+      background-color: rgba(49, 117, 206, 0.74);
+      color: white;
+      position: absolute;
+      right:0;
+      bottom: 35px;
+    border-radius: 5px;
+height:20px;
+padding: 5px;
+font-family: sans-serif;}
+.five{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+.imag{
+    border-radius: 5px;
+}
+.five1{
+ display: flex;
+ justify-content: space-between;
+ flex-wrap: wrap;
+ 
+
+ 
+}
+.five2{
+    margin:-15px;
+    }
+
+.five3{
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+    position: relative;
+    border: rgb(39, 24, 24);
+}
+.fin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:grey
+}
+.ref{
+    color: blue;
+    text-decoration: none;
+}
+
